@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 502f9f6cd5c4db2489fb15b9a4a3a8c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6563627449738631621
+    second: Trash truck (Tiles)_0
+  - first:
+      213: 2559255879549074993
+    second: Trash truck (Tiles)_1
+  - first:
+      213: 2800110244981556506
+    second: Trash truck (Tiles)_2
+  - first:
+      213: 771668190843977337
+    second: Trash truck (Tiles)_3
+  - first:
+      213: 4337494581949683084
+    second: Trash truck (Tiles)_4
+  - first:
+      213: 6420413590043199457
+    second: Trash truck (Tiles)_5
+  - first:
+      213: 1961659337838987458
+    second: Trash truck (Tiles)_6
+  - first:
+      213: 7525108784133082243
+    second: Trash truck (Tiles)_7
+  - first:
+      213: -776018080226831929
+    second: Trash truck (Tiles)_8
+  - first:
+      213: 1080996357963047125
+    second: Trash truck (Tiles)_9
+  - first:
+      213: -2175087516498647778
+    second: Trash truck (Tiles)_10
+  - first:
+      213: 2798320835851330166
+    second: Trash truck (Tiles)_11
+  - first:
+      213: 5105974844007079984
+    second: Trash truck (Tiles)_12
+  - first:
+      213: 3712347455052321448
+    second: Trash truck (Tiles)_13
+  - first:
+      213: -4370002707140612105
+    second: Trash truck (Tiles)_14
+  - first:
+      213: -2320938286279734475
+    second: Trash truck (Tiles)_15
+  - first:
+      213: -662204665753799064
+    second: Trash truck (Tiles)_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 140
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36635c2c9f49e4a0800000000000000
+      internalID: -6563627449738631621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 140
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e3ad5b9ad448320800000000000000
+      internalID: 2559255879549074993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 140
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ce04ae6dfbd620800000000000000
+      internalID: 2800110244981556506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 140
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e39bf812485ba00800000000000000
+      internalID: 771668190843977337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 140
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85da4c5750e13c30800000000000000
+      internalID: 4337494581949683084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 140
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78d91b424e91950800000000000000
+      internalID: 6420413590043199457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 140
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8883246c6393b10800000000000000
+      internalID: 1961659337838987458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 140
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c8c66c19e8e6860800000000000000
+      internalID: 7525108784133082243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 76
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c19cc4eaa70b35f0800000000000000
+      internalID: -776018080226831929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e0efc578700f00800000000000000
+      internalID: 1080996357963047125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 76
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1526b78d6980d1e0800000000000000
+      internalID: -2175087516498647778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 76
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6722e7c59f1a5d620800000000000000
+      internalID: 2798320835851330166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 76
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306f1961111cd640800000000000000
+      internalID: 5105974844007079984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 76
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2183d6758e48330800000000000000
+      internalID: 3712347455052321448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 76
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff636de0b1aa53c0800000000000000
+      internalID: -4370002707140612105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 76
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b41bcecee5acfd0800000000000000
+      internalID: -2320938286279734475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash truck (Tiles)_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86673217d506fc6f0800000000000000
+      internalID: -662204665753799064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

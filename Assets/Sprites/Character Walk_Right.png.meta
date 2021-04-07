@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 498dff43952fab84384443688c237a6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7984854161617055855
+    second: Character Walk_Right_0
+  - first:
+      213: 6450794909140688513
+    second: Character Walk_Right_1
+  - first:
+      213: -1307355841682893358
+    second: Character Walk_Right_2
+  - first:
+      213: -4545012980312020353
+    second: Character Walk_Right_3
+  - first:
+      213: 2603091916488041497
+    second: Character Walk_Right_4
+  - first:
+      213: 1822575520513160983
+    second: Character Walk_Right_5
+  - first:
+      213: 3962835803144496901
+    second: Character Walk_Right_6
+  - first:
+      213: 1115398183817075565
+    second: Character Walk_Right_7
+  - first:
+      213: 2781037346785161720
+    second: Character Walk_Right_8
+  - first:
+      213: -8360882098234844938
+    second: Character Walk_Right_9
+  - first:
+      213: 8245941719241872392
+    second: Character Walk_Right_10
+  - first:
+      213: -1882346114946371839
+    second: Character Walk_Right_11
+  - first:
+      213: 825292660172837070
+    second: Character Walk_Right_12
+  - first:
+      213: 5810500068485261722
+    second: Character Walk_Right_13
+  - first:
+      213: -527059179237608309
+    second: Character Walk_Right_14
+  - first:
+      213: 2738316826136272524
+    second: Character Walk_Right_15
+  - first:
+      213: -2822471630950907874
+    second: Character Walk_Right_16
+  - first:
+      213: -5346437378466090341
+    second: Character Walk_Right_17
+  - first:
+      213: 8953787712732866940
+    second: Character Walk_Right_18
+  - first:
+      213: 6573119972923037806
+    second: Character Walk_Right_19
+  - first:
+      213: 3471981651774692049
+    second: Character Walk_Right_20
+  - first:
+      213: 6858103047039741298
+    second: Character Walk_Right_21
+  - first:
+      213: -7344693915364551048
+    second: Character Walk_Right_22
+  - first:
+      213: 5921568543966088665
+    second: Character Walk_Right_23
+  - first:
+      213: 2283866202734220643
+    second: Character Walk_Right_24
+  - first:
+      213: 3531725727990234217
+    second: Character Walk_Right_25
+  - first:
+      213: 942936868235309590
+    second: Character Walk_Right_26
+  - first:
+      213: 271214659677055469
+    second: Character Walk_Right_27
+  - first:
+      213: 5144610227807725168
+    second: Character Walk_Right_28
+  - first:
+      213: 2408400633736712405
+    second: Character Walk_Right_29
+  - first:
+      213: -475526829015991388
+    second: Character Walk_Right_30
+  - first:
+      213: 2762043403520476173
+    second: Character Walk_Right_31
+  - first:
+      213: 1474661642368737134
+    second: Character Walk_Right_32
+  - first:
+      213: -1679876943626766309
+    second: Character Walk_Right_33
+  - first:
+      213: -5358261195331746689
+    second: Character Walk_Right_34
+  - first:
+      213: -99077355708578316
+    second: Character Walk_Right_35
+  - first:
+      213: 7181939220055116778
+    second: Character Walk_Right_36
+  - first:
+      213: 4631030109956774170
+    second: Character Walk_Right_37
+  - first:
+      213: -3314532691905113994
+    second: Character Walk_Right_38
+  - first:
+      213: -2766834095320471302
+    second: Character Walk_Right_39
+  - first:
+      213: -4713979960050930628
+    second: Character Walk_Right_40
+  - first:
+      213: 4877385368802703710
+    second: Character Walk_Right_41
+  - first:
+      213: -145139545003373144
+    second: Character Walk_Right_42
+  - first:
+      213: 3868805116828122532
+    second: Character Walk_Right_43
+  - first:
+      213: -4311513620319222963
+    second: Character Walk_Right_44
+  - first:
+      213: 6263148369372035369
+    second: Character Walk_Right_45
+  - first:
+      213: -2473740041203958208
+    second: Character Walk_Right_46
+  - first:
+      213: -2985160649150552109
+    second: Character Walk_Right_47
+  - first:
+      213: -3933435711422025908
+    second: Character Walk_Right_48
+  - first:
+      213: -188765141301338359
+    second: Character Walk_Right_49
+  - first:
+      213: 2936055768371346572
+    second: Character Walk_Right_50
+  - first:
+      213: 8890682055129778641
+    second: Character Walk_Right_51
+  - first:
+      213: 2789613072856140788
+    second: Character Walk_Right_52
+  - first:
+      213: -7832311858734171099
+    second: Character Walk_Right_53
+  - first:
+      213: 1247363811212415493
+    second: Character Walk_Right_54
+  - first:
+      213: -2570384788069952048
+    second: Character Walk_Right_55
+  - first:
+      213: 2544990771405966711
+    second: Character Walk_Right_56
+  - first:
+      213: 4850935529158157558
+    second: Character Walk_Right_57
+  - first:
+      213: 1242477964628248892
+    second: Character Walk_Right_58
+  - first:
+      213: 3603355802542326021
+    second: Character Walk_Right_59
+  - first:
+      213: 6402899507108263556
+    second: Character Walk_Right_60
+  - first:
+      213: -8307482538583414876
+    second: Character Walk_Right_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Walk_Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f04811279103190800000000000000
+      internalID: -7984854161617055855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Walk_Right_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9a36cac3d58950800000000000000
+      internalID: 6450794909140688513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Walk_Right_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d59575e9c65bdde0800000000000000
+      internalID: -1307355841682893358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Walk_Right_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a66f066cedce0c0800000000000000
+      internalID: -4545012980312020353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Walk_Right_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e5f76e4a002420800000000000000
+      internalID: 2603091916488041497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Walk_Right_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717728c87c61b4910800000000000000
+      internalID: 1822575520513160983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Walk_Right_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a0adba22def630800000000000000
+      internalID: 3962835803144496901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Walk_Right_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b58811db0ba7f00800000000000000
+      internalID: 1115398183817075565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
